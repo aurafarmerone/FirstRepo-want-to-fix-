@@ -30,7 +30,7 @@ My approach is **hands-on, practical, and offensive-security driven**, with a st
 - Web Application Pentesting
 - Network Pentesting
 - Vulnerability Assessment & Exploitation
-- Privilege Escalation (Linux Focused)
+- Privilege Escalation (Linux & Windows Focused)
 - Post-Exploitation & Enumeration
 
 ### 🌐 Networking Knowledge
